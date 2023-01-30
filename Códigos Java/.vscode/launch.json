@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch DiaSemana",
+            "request": "launch",
+            "mainClass": "DiaSemana",
+            "projectName": "Códigos Java_26e50dd4"
+        },
+        {
+            "type": "java",
+            "name": "Launch nomeMes",
+            "request": "launch",
+            "mainClass": "nomeMes",
+            "projectName": "Códigos Java_26e50dd4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Controle",
+            "request": "launch",
+            "mainClass": "Controle",
+            "projectName": "Códigos Java_26e50dd4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abouteme",
+            "request": "launch",
+            "mainClass": "Abouteme",
+            "projectName": "Códigos Java_26e50dd4"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Códigos Java_26e50dd4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comentario",
+            "request": "launch",
+            "mainClass": "Comentario",
+            "projectName": "Códigos Java_26e50dd4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "Códigos Java_26e50dd4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "Códigos Java_26e50dd4"
+        }
+    ]
+}
