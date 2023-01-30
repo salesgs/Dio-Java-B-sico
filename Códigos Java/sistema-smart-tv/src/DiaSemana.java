@@ -3,13 +3,14 @@ public class DiaSemana {
 
     public static void main(String []args){
         Scanner ler = new Scanner(System.in);
-        int diaSemana;
+        final int DIA_SEMANA;
+        
 
 
         System.out.println("Informe um número");
-        diaSemana = ler.nextInt();
+        DIA_SEMANA= ler.nextInt();
 
-        switch(diaSemana){
+        switch(DIA_SEMANA){
             case 1:
                 System.out.println("Segunda-Feira");
             break;
